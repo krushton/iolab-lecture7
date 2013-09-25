@@ -17,8 +17,8 @@ $(document).ready(function() {
 		//	  You'll need to extract the url and tags back from each bookmark <li>
 		//    Review http://delicious.com/developers to figure out which API method to use and what parameters are required
 
-		//IMPORTANT NOTE: In order to test the request, you will need to Upload the contents of this lab (trailmaker.html, js directory, 
-		//css directory) and run it from the web (ex. http://people.ischool.berkeley.edu/~yourname/trailmaker.html) 
+		//IMPORTANT NOTE: In order to test the request, you will need to Upload the contents of this lab (browser.html, js directory, 
+		//css directory) and run it from the web (ex. http://people.ischool.berkeley.edu/~yourname/browser.html) 
 
 		//PART 3 (Advanced/extra)
 		//1. Edit the HTML of the form and modify your JavaScript code to allow the user to add new tags to the selected bookmarks
