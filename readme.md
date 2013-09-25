@@ -1,5 +1,5 @@
 <h3>Delicious Browser Lab</h3>
-<p>Practice AJAX requests with the Ajax APIs
+<p>Practice AJAX requests with the Delicious API</p>
 
 <h4>Instructions</h4>
 
