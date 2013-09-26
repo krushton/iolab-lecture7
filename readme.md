@@ -9,3 +9,8 @@ Launch your FTP client and connect to your ISchool webspace, then copy the delic
 
 <h6>Step 2. Implement Delicious Browser</h6>
 Follow the instructions in js/main.js.
+
+
+<h4>Solutions</h4>
+One possible solution for the lab is in js/main-solutions.js
+You can see a demo of the lab here: http://krushton.com/iolab/browser.html
